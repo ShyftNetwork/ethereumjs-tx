@@ -1,5 +1,5 @@
 'use strict'
-const ethUtil = require('ethereumjs-util')
+const ethUtil = require('@shyftnetwork/shyft_ethereumjs-util')
 const fees = require('ethereum-common/params.json')
 const BN = ethUtil.BN
 

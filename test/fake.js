@@ -1,5 +1,5 @@
 const tape = require('tape')
-const utils = require('ethereumjs-util')
+const utils = require('@shyftnetwork/shyft_ethereumjs-util')
 const FakeTransaction = require('../fake.js')
 
 var txData = {

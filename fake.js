@@ -1,7 +1,7 @@
 'use strict'
 
 const Transaction = require('./index.js')
-const ethUtil = require('ethereumjs-util')
+const ethUtil = require('@shyftnetwork/shyft_ethereumjs-util')
 
 /**
  * Creates a new transaction object that doesn't need to be signed
